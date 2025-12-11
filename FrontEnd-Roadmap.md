@@ -1,3 +1,5 @@
+# 🎨👩🏻‍💻 Roadmap de Estudos de Front-End
+
 ## 📋 Visão Geral da Trilha Front-end
 Perfil: Para quem gosta de criar interfaces, resolver problemas de usabilidade e unir design com funcionalidade. É a pessoa que transforma designs em experiências interativas e acessíveis.
 
