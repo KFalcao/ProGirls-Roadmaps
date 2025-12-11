@@ -206,15 +206,15 @@ continuamente.
 
 ## 📅 Plano de Estudos Semanal (Exemplo)
 
-  Dia       Teoria (1h)       Prática (2h)   Extra (30min)
-  --------- ----------------- -------------- ---------------
-  Segunda   Redes             Lab Virtual    Blog técnico
-  Terça     Ofensiva          HTB/CTF        Write-up
-  Quarta    Criptografia      Python         Documentação
-  Quinta    Forense           Malware        Artigo
-  Sexta     Defesa            SIEM           Podcast
-  Sábado    Projeto pessoal   Dev contínuo   Comunidade
-  Domingo   Revisão           ---            ---
+  |Dia      | Teoria (1h)      | Prática (2h) |  Extra (30min) |
+  |-------- |----------------  |------------- |--------------- |
+  |Segunda  | Redes            |Lab Virtual   | Blog técnico |
+  |Terça    | Ofensiva         |HTB/CTF       | Write-up |
+  |Quarta   | Criptografia     |Python        | Documentação |
+  |Quinta   | Forense          |Malware       | Artigo |
+  |Sexta    | Defesa           |SIEM          | Podcast |
+  |Sábado   | Projeto pessoal  |Dev contínuo  | Comunidade |
+  |Domingo  | Revisão          | ---          | --- |
 
 ------------------------------------------------------------------------
 
